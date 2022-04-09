@@ -39753,7 +39753,7 @@ I(a,b){var s,r,q=t.Yw
 q=A.aj(new A.ai(A.b(["assets/images/logo_quran.png","assets/images/elocution.png","assets/images/quiz.png","assets/images/seminar.png","assets/images/exhibition2.png","assets/images/magazine.jpg"],t.s),new A.Wy(this),q),!0,q.j("b_.E"))
 s=q.length
 r=$.a9
-return new A.w_(new A.VN(260,1.7777777777777777,0.5,!0,!0),q,new A.VM(new A.aR(new A.aa(r,t.wC),t.Fe)),s,null)}}
+return new A.w_(new A.VN(260,1.7777777777777777,0.6,!0,!0),q,new A.VM(new A.aR(new A.aa(r,t.wC),t.Fe)),s,null)}}
 A.Wy.prototype={
 $1(a){return new A.ez(new A.Wx(this.a,a),null)},
 $S:286}
@@ -78234,3 +78234,4 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.aiD
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
+//# sourceMappingURL=main.dart.js.map

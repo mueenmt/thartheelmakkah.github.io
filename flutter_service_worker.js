@@ -37,13 +37,14 @@ const RESOURCES = {
 "favicon-.png": "5dcef449791fa27946b3d35ad8803796",
 "favicon.ico": "9439d232ac5917dd0dcd2e705211ea50",
 "favicon.png": "4b0e05e0907ce2d3db17490e9e3414e7",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "711260669ed8ee0208eeb4f2856f0e9e",
-"/": "711260669ed8ee0208eeb4f2856f0e9e",
-"main.dart.js": "c58c52980df635fc1214fc5970d1e86f",
+"index.html": "a54e765128d63f063c662d1badd094d1",
+"/": "a54e765128d63f063c662d1badd094d1",
+"main.dart.js": "35bb27d98ec72180456cc0a32faaaa6d",
 "manifest.json": "e965db4b62c436ae7ab04871dc356596",
 "version.json": "fcdd8db85d71fec0d038d2a09b6469d3"
 };
